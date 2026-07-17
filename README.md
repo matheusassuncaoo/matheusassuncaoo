@@ -1,137 +1,97 @@
 <div align="center">
-
-# Olá, eu sou o Matheus Cunha 👋
-
-### Desenvolvedor Full Stack • Analista de Sistemas
-
-<p>
-  Transformo ideias e necessidades reais em aplicações web, APIs, automações e soluções digitais completas.
-</p>
-
-<p>
-  <a href="https://github.com/matheusassuncaoo?tab=followers">
-    <img src="https://img.shields.io/github/followers/matheusassuncaoo?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores no GitHub" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9;%E2%8A%B9+Desenvolvedor+Full+Stack+%E2%8A%B9;%E2%8A%B9+Transformando+ideias+em+software+%E2%8A%B9"
+      alt="Apresentação animada"
+    />
   </a>
-  <a href="https://github.com/matheusassuncaoo?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/matheusassuncaoo?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Estrelas" alt="Estrelas no GitHub" />
-  </a>
-  <a href="https://www.youtube.com/@devcuiabano">
-    <img src="https://img.shields.io/badge/YouTube-Dev%20Cuiabano-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
 </div>
 
----
+#
 
-## Sobre mim
+<img
+  align="right"
+  alt="Developer GIF"
+  height="190"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdzYXFwNHV5Y2t4ZXFvbjIyNWFpbGtmYm5yOWdsMDZ2NjFvNXBscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/961lKM2Y6Nrfw3QVqo/giphy.gif"
+/>
 
-Sou de **Cuiabá, Mato Grosso**, formado em **Análise e Desenvolvimento de Sistemas** e focado em desenvolvimento **Full Stack**.
+Me chamo **Matheus Assunção**, sou natural de **Cuiabá, Mato Grosso**, e sou formado em **Análise e Desenvolvimento de Sistemas**.
 
-Atuo na construção de aplicações completas, trabalhando desde a interface e experiência do usuário até APIs, regras de negócio, integrações, bancos de dados e arquitetura da aplicação.
+Sou desenvolvedor **Full Stack** e gosto de construir aplicações completas, trabalhando desde a interface e experiência do usuário até APIs, regras de negócio, integrações, automações e bancos de dados.
 
-Tenho interesse especial por projetos que resolvem problemas reais, automatizam processos e entregam uma experiência simples para quem utiliza o sistema.
+Tenho interesse especial por soluções que resolvem problemas reais, simplificam processos e entregam experiências eficientes para os usuários.
 
-```javascript
-const matheus = {
-  location: "Cuiabá - MT",
-  education: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
-  role: "Full Stack Developer",
-  focus: ["Aplicações Web", "APIs REST", "Automações", "Sistemas"],
-};
-```
+<br clear="both"/>
 
-## Tecnologias
+#
+
+<h3 align="left">Conecte-se comigo!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:matheus.assuncaooh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/matheus-assuncaooh)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/matheus.assuncaoo)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/@devcuiabano)
+[![X](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/matheusdevcuiabano)
+
+<h3 align="left">Minha Stack ~</h3>
+
+<img align="left" alt="HTML5" title="HTML5" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Java" title="Java" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Python" title="Python" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C#" title="C#" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" title="Git" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<br/>
+<br/>
+
+<h3 align="left">Estatísticas do GitHub</h3>
 
 <div align="center">
+  <a href="https://github.com/matheusassuncaoo">
+    <img
+      height="190"
+      alt="Estatísticas do GitHub de Matheus Assunção"
+      src="https://github-stats-extended.vercel.app/api?username=matheusassuncaoo&show_icons=true&include_all_commits=true&theme=github_dark"
+    />
+  </a>
 
-### Front-end
-
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
-&nbsp;
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
-&nbsp;
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-&nbsp;
-<img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
-&nbsp;
-<img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" />
-&nbsp;
-<img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
-&nbsp;
-<img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" title="Figma" />
-
-### Back-end e dados
-
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
-&nbsp;
-<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" title="Spring Boot" />
-&nbsp;
-<img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
-&nbsp;
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
-&nbsp;
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-&nbsp;
-<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
-
-### Ferramentas
-
-<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
-&nbsp;
-<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
-&nbsp;
-<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" />
-&nbsp;
-<img alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="45" title="Godot" />
-&nbsp;
-<img alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" title="C#" />
-
+  <a href="https://github.com/matheusassuncaoo?tab=repositories">
+    <img
+      height="190"
+      alt="Linguagens mais utilizadas por Matheus Assunção"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=matheusassuncaoo&langs_count=4&theme=github_dark"
+    />
+  </a>
 </div>
 
-## Estatísticas
+<br/>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusassuncaoo&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassuncaoo&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusassuncaoo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
-## Contribuições
+<h3 align="center">Contribuições</h3>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação da cobrinha de contribuições"
+      src="https://raw.githubusercontent.com/matheusassuncaoo/matheusassuncaoo/output/github-contribution-grid-snake.svg"
+    />
   </picture>
-</div>
-
-## Onde me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-assuncaooh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/matheus.assuncaoo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@matheusdevcuiabano">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://x.com/matheusdevcuiabano">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:matheus.assuncaooh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Construindo soluções completas, uma linha de código por vez.</sub>
 </div>
